@@ -1,0 +1,80 @@
+body{
+    background-image:url('dark_wood.png');
+    margin-left:auto;
+    margin-right:auto;
+}
+p{
+    color:white;
+    font-family: "Arial";
+    font-weight: bold;
+    background-color: #8E41D5;
+}
+h2{
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+    background-color:yellow;
+}
+form{
+    background-color:rgb(224, 191, 191);
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+#Email{
+    text-align:center;
+    width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:10px;
+    background-color: #8E41D5;
+    border: solid 8px black;
+}
+#Password{
+    font-size: 60px;
+    font-family: "Passion One"; 
+    color: #FFBC00; 
+    font-weight: bold;
+    background-color: red;
+}
+#account{
+    float:left;
+    text-align:center;
+    width: 400px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:10px;
+    padding-bottom: 8px;
+    border: solid 8px black;
+    background-color: #8E41D5;
+}
+
+#field{
+    background-color:blue;
+    font-size: 300px;
+    font-weight: 100;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+    background-color: darkblue;
+}
+
+#PI{
+    padding:15px;
+    text-align:center;
+    width: 700px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:10px;
+    background-color: greenyellow;
+    border: solid 8px darkred;
+}
+
+a{
+    color: white; 
+    font-weight: bold; 
+    font-size: 24px;
+}
